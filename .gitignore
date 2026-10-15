@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.next-*/
+.healthcheck/
+*.tsbuildinfo
+.env.local
+.env.*.local
+Genect App/
+Lyn_GENECT_Buddy_Platform_Guide.pdf
